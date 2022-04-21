@@ -1,4 +1,4 @@
-# bear robotics_assignment
+# Bear Robotics assignment
 
 ## Implement a simple ATM controller
 
