@@ -33,7 +33,7 @@ You can simplify some complex real world problems if you think it's not worth il
 ## Run program test
 1. Cloning the project
  ```python
- git clone 
+ git clone https://github.com/bluewing4/bearrobotics_assignment.git
  ```
 2. Running the python
 ```python
